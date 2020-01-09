@@ -22,7 +22,7 @@ namespace GenericRepository.DAL
             return dbEntity.ToList();
         }
 
-        public void InsertModel(T model)
+        public void InsertModel(T model)  
         {
             throw new NotImplementedException();
         }
