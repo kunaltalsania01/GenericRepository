@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/53759142/show-alert-message-if-value-not-selected-in-dropdown-in-jquery
+
+dropdown validation on submit
+
+
+https://stackoverflow.com/questions/31860103/hide-option-from-dropdown-2-when-selected-in-dropdown-1
+
+
+second dropdown deselect if value is select in first dorpdown selected
+second dropdown value hide if first value is same in second 
