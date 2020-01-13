@@ -11,8 +11,8 @@ namespace GenericRepository.DAL
     {
         private TestEntities _context;
         private IDbSet<T> dbEntity;
-
-        public AllRepository()
+         
+        public AllRepository() 
         {
             _context = new TestEntities();
             dbEntity = _context.Set<T>();
@@ -25,6 +25,10 @@ namespace GenericRepository.DAL
         public void InsertModel(T model)  
         {
             throw new NotImplementedException();
+        }
+        public void test()
+        {
+
         }
     }
 }
